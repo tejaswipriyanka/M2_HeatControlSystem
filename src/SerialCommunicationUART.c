@@ -1,13 +1,3 @@
-/**
- * @file SerialCommunicationUART.c
- * @author Hemanth A (hemanth.ec17@bmsce.ac.in)
- * @brief A file where serial communication functions are implemented
- * @version 0.1
- * @date 2021-04-29
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 #include <avr/io.h>
 #include "SerialCommunicationUART.h"
 /**
@@ -23,9 +13,6 @@ void UARTinit(uint16_t ubrr_value){
     UART_ENABLED; //enable rx and tx of uart with interrupts
 
 }
-
-
-
 
 
 /**

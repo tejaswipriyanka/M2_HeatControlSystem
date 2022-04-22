@@ -1,13 +1,3 @@
-/**
- * @file TemperatureSensorADC.c
- * @author Hemanth A (hemanth.ec17@bmsce.ac.in)
- * @brief A file where the ADC functions are implemented for temperature sensor
- * @version 0.1
- * @date 2021-04-29
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 #include <avr/io.h>
 #include "TemperatureSensorADC.h"
 

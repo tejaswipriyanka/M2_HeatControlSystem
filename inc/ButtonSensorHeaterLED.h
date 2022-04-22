@@ -1,13 +1,3 @@
-/**
- * @file ButtonSensorHeaterLED.h
- * @author Hemanth A (hemanth.ec17@bmsce.ac.in)
- * @brief A header file for button sensor and heater functions
- * @version 0.1
- * @date 2021-04-29
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 #ifndef _BUTTONSENSORHEATERLED_H_
 #define _BUTTONSENSORHEATERLED_H_
 

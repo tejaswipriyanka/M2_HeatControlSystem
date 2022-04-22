@@ -9,19 +9,19 @@ The primary function of the heat control system is to regulate the temperature o
 The heat control system's functionality is coded in embedded C, and its operation is illustrated using SimulIDE simulation software.
 The first image depicts the status of the simulation while the system is turned off, while the second image shows the status of the system when it is turned on.
 #### ON
-![ON](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/simulation/Simulation_ON.PNG)
+![ON](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/6_Output/Simulation_ON.PNG)
 
 #### OFF
-![OFF](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/simulation/Simulation_OFF.PNG)
+![OFF](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/6_Output/Simulation_OFF.PNG)
 
 #### Outputs
 
 |Circuit|RAM Table|
 |:--:|:--:|
-|![CIRCUIT](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/simulation/Circuit.gif)|!
-[RAM_TABLE](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/simulation/RAM_table.gif)|
+|![CIRCUIT](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/6_Output/Circuit.gif)|!
+[RAM_TABLE](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/6_Output/RAM_table.gif)|
 |CRO|Serial Monitor|
-|![CRO](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/simulation/Oscilloscope.gif)|![ON](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/simulation/Serial_Monitor.gif)|
+|![CRO](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/6_Output/Oscilloscope.gif)|![ON](https://github.com/tejaswipriyanka/M2_HeatControlSystem/blob/main/6_Output/Serial_Monitor.gif)|
 
 ### Functionality 
 

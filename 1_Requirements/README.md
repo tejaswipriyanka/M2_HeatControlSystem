@@ -1,4 +1,4 @@
-## Components Require:
+## Components Required:
 1.Atmega 328 microcontroller
 2.Osciloscope
 3.Resistors

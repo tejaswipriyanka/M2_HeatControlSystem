@@ -1,3 +1,3 @@
 # Heat Control System
-##Theory:
+# Theory:
 The primary function of the heat control system is to regulate the temperature of a car seat. The button sensor is engaged when a user or driver of the car sits in the vehicle. The user then has the ability to turn on the heating. The temperature sensor continuously measures the temperature and transmits the analogue value to the microcontroller. The temperature sensor's analogue input is processed by the microcontroller, which then produces a temperature reading via serial connection. The control system's whole operation is controlled by an Atmega328 microprocessor.
